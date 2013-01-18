@@ -60,6 +60,7 @@ Refer to the desired files in your HTML template, e.g.
 
 ``` html
 <link rel="stylesheet" type="text/css" href="{{ asset('bundles/bmatznerjquerymobile/css/jquery.mobile.min.css') }}" />
+<script type="text/javascript" src="{{ asset('bundles/bmatznerjquery/js/jquery.min.js') }}"></script>
 <script type="text/javascript" src="{{ asset('bundles/bmatznerjquerymobile/js/jquery.mobile.min.js') }}"></script>
 ```
 
