@@ -37,7 +37,7 @@ public function registerBundles()
 ### Download the bundle using Composer
 
 ``` bash
-$ php composer.phar update bmatzner/jquerymobile-bundle
+$ php composer.phar update bmatzner/jquery-mobile-bundle
 ```
 
 ### Install assets
