@@ -2,7 +2,7 @@
 
 ## Current Version
 
-jQuery Mobile 1.3.0 Beta 1
+jQuery Mobile 1.3.0-RC1
 
 ## Installation
 
