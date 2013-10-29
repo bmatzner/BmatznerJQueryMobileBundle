@@ -28,6 +28,7 @@ public function registerBundles()
 {
     $bundles = array(
         // ...
+        new Bmatzner\JQueryBundle\BmatznerJQueryBundle(),
         new Bmatzner\JQueryMobileBundle\BmatznerJQueryMobileBundle(),
         // ...
     );
