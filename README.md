@@ -2,7 +2,7 @@
 
 ## Current Version
 
-jQuery Mobile 1.3.2
+jQuery Mobile 1.4.2
 
 ## Installation
 
