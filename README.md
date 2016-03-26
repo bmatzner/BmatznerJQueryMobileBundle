@@ -2,7 +2,7 @@
 
 ## Current Version
 
-jQuery Mobile 1.4.2
+jQuery Mobile 1.4.5
 
 ## Installation
 
@@ -14,7 +14,7 @@ jQuery Mobile 1.4.2
 {
     "require": {
         // ...
-        "bmatzner/jquery-mobile-bundle": "*"
+        "bmatzner/jquery-mobile-bundle": "~1.4"
     }
 }
 ```
